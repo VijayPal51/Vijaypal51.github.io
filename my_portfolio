@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vijay Pal | Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Vijay Pal</h1>
+    <p>B.Tech Final Year Student | Aspiring Developer</p>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>
+      Hi! I'm Vijay Pal, a final-year B.Tech student with a passion for
+      technology, coding, and building meaningful digital products. I love solving problems and learning new tech.
+    </p>
+  </section>
+
+  <section class="education">
+    <h2>Education</h2>
+    <p><strong>Bachelor of Technology (B.Tech)</strong><br />
+    [Your Branch], [Your College Name], [City]<br />
+    Expected Graduation: May 2026<br />
+    CGPA: 7.8</p>
+  </section>
+
+  <section class="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li><strong>Languages:</strong> C++, Java, Python, JavaScript</li>
+      <li><strong>Web Dev:</strong> HTML, CSS, Bootstrap, React (basic)</li>
+      <li><strong>Databases:</strong> MySQL, MongoDB (basic)</li>
+      <li><strong>Tools:</strong> Git, GitHub, VS Code, Postman</li>
+      <li><strong>CS Fundamentals:</strong> DSA, OOPs, DBMS, OS</li>
+    </ul>
+  </section>
+
+  <section class="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li><strong>Portfolio Website</strong> – HTML, CSS, JavaScript<br />
+      A responsive website to showcase my profile and skills.</li>
+      <li><strong>Student Management System</strong> – Python, MySQL<br />
+      A basic CRUD app for managing student records.</li>
+      <li><strong>To-Do List Web App</strong> – HTML, CSS, JavaScript<br />
+      Simple task manager with add/delete/edit features.</li>
+    </ul>
+  </section>
+
+  <section class="certifications">
+    <h2>Certifications</h2>
+    <ul>
+      <li>Python for Everybody – Coursera</li>
+      <li>Web Development Bootcamp – Udemy</li>
+      <li>Data Structures in C++ – Coding Ninjas</li>
+    </ul>
+  </section>
+
+  <section class="achievements">
+    <h2>Achievements</h2>
+    <ul>
+      <li>Participated in inter-college hackathon, built a healthcare app</li>
+      <li>Solved 250+ problems on LeetCode</li>
+      <li>Campus ambassador for XYZ program</li>
+    </ul>
+  </section>
+
+  <section class="contact">
+    <h2>Contact</h2>
+    <p>Email: vijaypal@example.com</p>
+    <p>LinkedIn: <a href="#">linkedin.com/in/vijaypal</a></p>
+    <p>GitHub: <a href="#">github.com/vijaypal</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Vijay Pal. All rights reserved.</p>
+  </footer>
+</body>
+</html>
